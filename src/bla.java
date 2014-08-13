@@ -1,4 +1,4 @@
 
 public class bla {
-	int a;
+	int b;
 }
